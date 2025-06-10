@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p id="pyr"></p>
+<input type="text" id="ta">
+</body>
+<script>
+function update() { //sorry for the commas, i couldn't be bothered
+	var jj;
+    var block = [];
+    for (let i = 0; i < parseInt(document.getElementById("ta").value); i++) {
+    	jj = "";
+        for (let j = 0; j < i+1; j++) {
+        	jj = jj + "*";
+        }
+        block.push(jj + "<br>");
+    }
+    document.getElementById("pyr").innerHTML = block;
+}
+setInterval(update, 100);
+</script>
+</html>
