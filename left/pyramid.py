@@ -1,5 +1,5 @@
 num = int(input("Number: \n"))
 block = ""
-for i in range(num+1):
+for i in range(num):
     block = block + "*"
     print(block)
