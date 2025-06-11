@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //duplicate of java
 public class Pyramid
 {
     public static void main(String[] args)
