@@ -1,3 +1,4 @@
+#made in Perl, not Prolog
 print "Enter height of the pyramid: ";
 
 $height = <STDIN>;
