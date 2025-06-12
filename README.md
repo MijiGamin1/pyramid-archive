@@ -4,7 +4,7 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 ## Programing Languages already done:
 1. R  
 2. Assembly  
-3. BASIC  
+3. QBASIC (QB64)  
 4. Batch  
 5. Brainfuck  
 6. C  
