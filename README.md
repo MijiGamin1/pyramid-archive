@@ -12,26 +12,25 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 8. C++  
 9. C#  
 10. D  
-11. Fortran 90  
-12. Fortran 95  
-13. Go  
-14. Groovy  
-15. HTML  
-16. Java  
-17. Kotlin  
-18. Lua  
-19. Pascal  
-20. PHP  
-21. Perl  
-22. PowerShell  
-23. Python  
-24. Q#  
-25. Ruby  
-26. Rust  
-27. Scratch  
-28. Scala  
-29. Shell  
-30. Spwn  
-31. Swift  
-32. TypeScript  
-33. Visual Basic
+11. Fortran 95  
+12. Go  
+13. Groovy  
+14. HTML  
+15. Java  
+16. Kotlin  
+17. Lua  
+18. Pascal  
+19. PHP  
+20. Perl  
+21. PowerShell  
+22. Python  
+23. Q#  
+24. Ruby  
+25. Rust  
+26. Scratch  
+27. Scala  
+28. Shell  
+29. Spwn  
+30. Swift  
+31. TypeScript  
+32. Visual Basic
