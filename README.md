@@ -15,9 +15,9 @@ Go
 Groovy  
 Haskell   
 Java  
-JavaScript (via HTML)
-Kotlin
-Lua  
+JavaScript (via HTML)  
+Kotlin  
+Lua    
 Nix (duplicate of Bash)  
 OCaml  
 Pascal  
