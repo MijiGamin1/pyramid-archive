@@ -13,15 +13,15 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 9. Fortran 95
 10. Go
 11. Groovy
-12. HTML/Javascript
-13. Haskell
+12. Haskell
+13. HTML/Javascript
 14. Java
 15. Kotlin
 16. Lua
 17. OCaml
-18. PHP
-19. Pascal
-20. Perl
+18. Pascal
+19. Perl
+20. PHP
 21. PowerShell
 22. Python
 23. Q#
@@ -29,10 +29,10 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 25. R
 26. Ruby
 27. Rust
-28. SPWN
-29. Scala
-30. Scratch
-31. Shell
+28. Scala
+29. Scratch
+30. Shell
+31. SPWN
 32. Swift
 33. TypeScript
 34. Visual Basic
