@@ -17,20 +17,21 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 13. Java
 14. Kotlin
 15. Lua
-16. PHP
-17. Pascal
-18. Perl
-19. PowerShell
-20. Python
-21. Q#
-22. QBASIC (QB64)
-23. R
-24. Ruby
-25. Rust
-26. SPWN
-27. Scala
-28. Scratch
-29. Shell
-30. Swift
-31. TypeScript
-32. Visual Basic
+16. OCaml
+17. PHP
+18. Pascal
+19. Perl
+20. PowerShell
+21. Python
+22. Q#
+23. QBASIC (QB64)
+24. R
+25. Ruby
+26. Rust
+27. SPWN
+28. Scala
+29. Scratch
+30. Shell
+31. Swift
+32. TypeScript
+33. Visual Basic
