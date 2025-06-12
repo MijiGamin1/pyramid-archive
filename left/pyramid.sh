@@ -3,12 +3,11 @@
 #also it uses o's instead of asterisks because asterisks pulled up something file related
 
 read -p "Num: " num
-for i in $(seq 0 $num)
+for i in $(seq 1 $num)
 do
-    block="";
-    for j in $(seq 0 $i)
+    for j in $(seq 1 $i)
     do  
-        block="${block}o"
+        printf "*";
     done
-    echo $block
+    echo "";
 done
