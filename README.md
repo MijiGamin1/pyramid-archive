@@ -13,15 +13,17 @@ D
 Fortran 95  
 Go  
 Groovy  
-Haskell  
-HTML/Javascript  
+Haskell   
 Java  
+JavaScript (via HTML)
 Kotlin
 Lua  
+Nix (duplicate of Bash)  
 OCaml  
 Pascal  
 Perl  
 PHP  
+Pizza (duplicate of Java)  
 PowerShell  
 Python  
 Q#  
