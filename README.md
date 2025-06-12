@@ -16,7 +16,7 @@ Groovy
 Haskell  
 HTML/Javascript  
 Java  
-Kotlin 
+Kotlin
 Lua  
 OCaml  
 Pascal  
