@@ -1,3 +1,4 @@
+#made in R Studio
 cat("Enter height of the pyramid: ")
 height <- as.integer(readline());
 
