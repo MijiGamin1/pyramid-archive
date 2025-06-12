@@ -1,3 +1,5 @@
+#duplicate of bash
+
 #run with nix installed with `nix-shell` pyramid.nix
 
 #! /usr/bin/env nix-shell
