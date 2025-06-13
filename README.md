@@ -17,8 +17,8 @@ Haskell
 Java  
 JavaScript (via HTML)  
 Kotlin  
-LOLCODE
-Lua    
+LolCode  
+Lua  
 Nix (duplicate of Bash)  
 OCaml  
 Pascal  
