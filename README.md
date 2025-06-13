@@ -35,6 +35,7 @@ Python
 Q#  
 QBASIC (QB64)  
 R  
+Racket  
 Ruby  
 Rust  
 Scala  
