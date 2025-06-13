@@ -1,0 +1,13 @@
+#ALGOL68 code; made in an online compiler#
+BEGIN
+  INT height;
+  print("Enter height of the pyramid: ");
+  read(height);
+  
+  FOR i FROM 1 TO height DO
+    FOR j FROM 1 TO i DO
+      print("*")
+    OD;
+    print(newline)
+  OD
+END
