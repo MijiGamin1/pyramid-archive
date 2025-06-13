@@ -22,7 +22,7 @@ LolCode
 Lua  
 Nix (duplicate of Bash)  
 Objective-C  
-OCaml
+OCaml  
 Octave  
 Pascal  
 Perl  
