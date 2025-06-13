@@ -21,6 +21,7 @@ Kotlin
 LolCode  
 Lua  
 Nix (duplicate of Bash)  
+Objective-C  
 OCaml
 Octave  
 Pascal  
