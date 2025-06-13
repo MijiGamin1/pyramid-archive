@@ -1,3 +1,4 @@
+//PHP
 echo "Enter the number: ";
 $num = trim(fgets(STDIN));
 $block = "";
