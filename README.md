@@ -17,7 +17,7 @@ Go
 Groovy  
 Haskell   
 Java  
-JavaScript (via HTML)  
+JavaScript   
 Kotlin  
 LolCode  
 Lua  
