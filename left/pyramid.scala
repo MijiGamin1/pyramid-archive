@@ -1,3 +1,4 @@
+//Scala
 object Main {
     def main(args: Array[String]) = {
         val num = scala.io.StdIn.readInt()
