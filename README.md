@@ -21,7 +21,8 @@ Kotlin
 LolCode  
 Lua  
 Nix (duplicate of Bash)  
-OCaml  
+OCaml
+Octave  
 Pascal  
 Perl  
 PHP  
