@@ -1,3 +1,4 @@
+!FORTRAN 95
 Program Pyramid
 
 INTEGER :: h,i,j
