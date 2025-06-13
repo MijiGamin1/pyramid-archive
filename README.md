@@ -18,6 +18,7 @@ Groovy
 Haskell   
 Java  
 JavaScript   
+Julia  
 Kotlin  
 LolCode  
 Lua  
@@ -43,4 +44,4 @@ SPWN
 Swift  
 TypeScript  
 Visual Basic  
-Wolfram
+Wolfram  
