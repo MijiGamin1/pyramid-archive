@@ -1,3 +1,4 @@
+//Swift
 import Foundation
 
 print("Enter the number: ", terminator: "")
