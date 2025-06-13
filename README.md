@@ -17,6 +17,7 @@ Haskell
 Java  
 JavaScript (via HTML)  
 Kotlin  
+LOLCODE
 Lua    
 Nix (duplicate of Bash)  
 OCaml  
@@ -38,3 +39,4 @@ SPWN
 Swift  
 TypeScript  
 Visual Basic  
+Wolfram
