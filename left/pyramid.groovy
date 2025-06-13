@@ -1,3 +1,4 @@
+//Groovy, made using online compiler but ran through GroovyConsole
 println "Number: "
 num = "${System.in.newReader().readLine()}"
 i = 1
