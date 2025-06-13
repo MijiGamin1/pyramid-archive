@@ -11,6 +11,7 @@ C#
 C++   
 COBOL  
 D  
+Dart  
 Fortran 95  
 Go  
 Groovy  
