@@ -51,3 +51,4 @@ TCL
 TypeScript  
 Visual Basic  
 Wolfram  
+Zig  
