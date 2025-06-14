@@ -2,25 +2,25 @@
 A bunch of pyramids made in different programming languages. The idea is that you input a number, and it makes a "pyramid" (tower of asterisks of increasing widths) based on the number you've inputted.
 
 ## Programing Languages already done:
-Ada
+Ada  
 ALGOL 68  
 Assembly  
 Batch  
 Brainfuck  
 C  
 C#  
-C++   
+C++  
 COBOL  
 D  
 Dart  
-Elixir
-Erlang
+Elixir  
+Erlang  
 Fortran 95  
 Go  
 Groovy  
-Haskell   
+Haskell  
 Java  
-JavaScript   
+JavaScript  
 Julia  
 Kotlin  
 LolCode  
