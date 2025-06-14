@@ -1,3 +1,4 @@
+%Erlang
 -module(pyramid).
 -export([main/1]).
 
