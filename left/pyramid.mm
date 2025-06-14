@@ -1,8 +1,8 @@
-/*************************************
+/*
 Objective C made in an online compiler
 change file extension to .m before running
 .mm is for Objective C++
-*************************************/
+*/
 
 #import <Foundation/Foundation.h>
 
