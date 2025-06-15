@@ -58,3 +58,15 @@ VBA (via Excel macro)
 Visual Basic  
 Wolfram  
 Zig  
+
+## TODO:
+B  
+BCPL  
+BlitzMax  
+Bun  
+COW  
+[https://github.com/DaemonNillia/Decibel](Decibel)  
+[https://github.com/face-hh/griddycode](Griddycode)   
+[https://github.com/OfficialCodeNoodles/NoodleScript](NoodleScript)  
+[https://github.com/sam-astro/Z-Sharp](Z#)  
+
