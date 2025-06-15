@@ -61,11 +61,14 @@ Zig
 
 ## TODO:
 B  
+BASIC  
 BCPL  
 BlitzMax  
+CommonLisp  
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 [Griddycode](https://github.com/face-hh/griddycode)   
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
+Prolog  
 [Z#](https://github.com/sam-astro/Z-Sharp) 
 
