@@ -50,6 +50,7 @@ Swift
 TCL  
 TypeScript  
 V  
+VBA (via Excel macro)  
 Visual Basic  
 Wolfram  
 Zig  
