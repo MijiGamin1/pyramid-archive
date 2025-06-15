@@ -49,6 +49,7 @@ SPWN
 Swift  
 TCL  
 TypeScript  
+V  
 Visual Basic  
 Wolfram  
 Zig  
