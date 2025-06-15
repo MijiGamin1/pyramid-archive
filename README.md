@@ -2,7 +2,7 @@
 A bunch of pyramids made in different programming languages. The idea is that you input a number, and it makes a "pyramid" (tower of asterisks of increasing widths) based on the number you've inputted.
 
 ## Cool pyramid-related things:
-[pyramid.py ran on a calculator](https://youtu.be/JQqT5u8wZeE)
+[pyramid.py ran on a calculator](https://youtu.be/JQqT5u8wZeE)  
 [pyramid code in desmos](https://www.desmos.com/calculator/grods4qbsy)
 
 ## Programing Languages already done:
