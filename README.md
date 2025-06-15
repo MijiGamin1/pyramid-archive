@@ -63,7 +63,6 @@ Zig
 B  
 BCPL  
 BlitzMax  
-Bun  
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 [Griddycode](https://github.com/face-hh/griddycode)   
