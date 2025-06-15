@@ -65,8 +65,8 @@ BCPL
 BlitzMax  
 Bun  
 COW  
-[https://github.com/DaemonNillia/Decibel](Decibel)  
-[https://github.com/face-hh/griddycode](Griddycode)   
-[https://github.com/OfficialCodeNoodles/NoodleScript](NoodleScript)  
-[https://github.com/sam-astro/Z-Sharp](Z#)  
+[Decibel](https://github.com/DaemonNillia/Decibel)  
+[Griddycode](https://github.com/face-hh/griddycode)   
+[NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
+[Z#](https://github.com/sam-astro/Z-Sharp) 
 
