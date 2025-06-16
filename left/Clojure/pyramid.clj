@@ -1,4 +1,3 @@
-;;Clojure
 (ns clojure.examples.hello
 (:gen-class))
 (defn Example []
