@@ -50,6 +50,7 @@ Rust
 Scala  
 Scratch  
 Shell  
+Snap!  
 SPWN  
 Swift  
 TCL  
