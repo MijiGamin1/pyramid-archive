@@ -1,4 +1,3 @@
-//designed for Code.org App Lab
 var num = prompt("Number:");
 var block = "";
 for (var i = 0; i < num; i++) {
