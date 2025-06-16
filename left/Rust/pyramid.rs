@@ -1,4 +1,3 @@
-//Rust
 use std::io;
 fn main() {
     let mut n = String::new();
