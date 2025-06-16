@@ -14,6 +14,7 @@ Brainfuck
 C  
 C#  
 C++  
+Clojure  
 COBOL  
 D  
 Dart  
