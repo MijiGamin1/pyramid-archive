@@ -75,7 +75,7 @@ Discord bot
 Minecraft Redstone  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 Prolog  
-[Sprite Lab](https://code.org/en-US/tools/sprite-lab)
+[Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
 SQL  
 TI-84 program  
 [Z#](https://github.com/sam-astro/Z-Sharp) 
