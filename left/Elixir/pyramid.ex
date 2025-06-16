@@ -1,4 +1,3 @@
-#Elixir
 defmodule Pyramid do
   def main do
     IO.puts("Number:")
