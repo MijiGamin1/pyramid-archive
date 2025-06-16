@@ -1,4 +1,3 @@
-#PowerShell
 $num = Read-Host "Number: "
 New-Variable -Name "block" -Value ""
 for (($i = 0); $i -lt $num; $i++)
