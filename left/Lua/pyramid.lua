@@ -1,4 +1,3 @@
--- Lua
 io.write("Enter the number: \n")
 local num = tonumber(io.read())
 local block = ""
