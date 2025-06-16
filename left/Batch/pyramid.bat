@@ -1,4 +1,3 @@
-REM batch
 @echo off
 set /p num=Enter the number:
 set "block="
