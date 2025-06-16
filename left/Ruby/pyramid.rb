@@ -1,4 +1,3 @@
-#Ruby
 h = gets.chomp
 h = h.to_i
 n = 1
