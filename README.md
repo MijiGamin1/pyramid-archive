@@ -67,8 +67,12 @@ BlitzMax
 CommonLisp  
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
+Discord bot  
 [Griddycode](https://github.com/face-hh/griddycode)   
+Minecraft Redstone  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 Prolog  
+SQL  
+TI-84 program  
 [Z#](https://github.com/sam-astro/Z-Sharp) 
 
