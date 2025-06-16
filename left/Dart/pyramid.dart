@@ -1,4 +1,3 @@
-//Dart
 import "dart:io";
 void main() {
   print("enter number:");
