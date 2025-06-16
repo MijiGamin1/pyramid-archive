@@ -41,7 +41,7 @@ PHP
 Pizza (duplicate of Java)  
 PowerShell  
 Python  
-Q#  
+Q# (hardcoded)  
 QBASIC (QB64)  
 R  
 Racket  
@@ -54,11 +54,11 @@ SPWN
 Swift  
 TCL  
 TypeScript  
-V  
+V (hardcoded)  
 VBA (via Excel macro)  
 Visual Basic  
 Wolfram  
-Zig  
+Zig (hardcoded)  
 
 ## TODO:
 B  
