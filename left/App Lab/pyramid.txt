@@ -1,5 +1,6 @@
 //made with Code.org's App Lab
 //.txt file due to exporting the project giving me a bunch of .html and .js files
+//also works with Game Lab
 var num = prompt("Number:");
 var block = "";
 for (var i = 0; i < num; i++) {
