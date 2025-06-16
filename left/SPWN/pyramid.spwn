@@ -1,4 +1,3 @@
-//SPWN
 let num = $.get_input("Number:").trim()
 let block = ""
 for i in 1..@number(num)+1 {
