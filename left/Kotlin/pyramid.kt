@@ -1,4 +1,3 @@
-//Made in Kotlin
 fun main() {
     print("Enter height of pyramid: ")
     var height:Int = readln().toInt()
