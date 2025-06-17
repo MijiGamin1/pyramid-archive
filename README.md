@@ -63,45 +63,44 @@ Wolfram
 Zig (hardcoded)  
 
 ## TODO:
+Alice  
+AutoHotkey  
 B  
 BASIC  
 BCPL  
 BlitzMax  
-CommonLisp  
+Chapel  
+COBOLScript  
 COW  
+Crystal  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 Discord bot  
+Eiffel  
+Factor  
+Hack  
+Haxe  
+GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
+Io  
+Icon  
+J  
+LiveCode  
 Minecraft Commands  
+Modula-2  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 Prolog  
+PowerBuilder  
+PureBasic  
+Rebol  
+Ring  
+RPG  
 Scheme  
+Smalltalk  
 [Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
 SQL  
 TI-84 program  
-[Z#](https://github.com/sam-astro/Z-Sharp)  
-Smalltalk  
-Alice  
-COBOLScript  
-VHDL  
 Turing  
-PowerBuilder  
-PureBasic  
-LiveCode  
-Hack  
-Haxe  
-Modula-2  
-Eiffel  
-Factor  
-Rebol  
-Io  
-Chapel  
-Crystal  
-GDScript  
-AutoHotkey  
+VHDL  
 Xojo  
-Ring  
-RPG  
-Icon  
-J  
+[Z#](https://github.com/sam-astro/Z-Sharp)  
 
