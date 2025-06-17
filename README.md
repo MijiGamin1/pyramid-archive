@@ -80,15 +80,12 @@ Scheme
 SQL  
 TI-84 program  
 [Z#](https://github.com/sam-astro/Z-Sharp)  
-F#  
 Smalltalk  
-MATLAB  
 Alice  
 COBOLScript  
 VHDL  
 Turing  
 PowerBuilder  
-Delphi  
 PureBasic  
 LiveCode  
 Hack  
