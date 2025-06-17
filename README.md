@@ -74,6 +74,7 @@ Discord bot
 Minecraft Commands  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 Prolog  
+Scheme  
 [Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
 SQL  
 TI-84 program  
