@@ -76,6 +76,7 @@ Crystal
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 Discord bot  
 Eiffel  
+Emojicode  
 Factor  
 Hack  
 Haxe  
