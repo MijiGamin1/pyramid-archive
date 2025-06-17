@@ -71,7 +71,7 @@ COW
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 Discord bot  
 [Griddycode](https://github.com/face-hh/griddycode)   
-Minecraft Redstone  
+Minecraft Commands  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 Prolog  
 [Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
