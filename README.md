@@ -56,7 +56,7 @@ SPWN
 Swift  
 TCL  
 TypeScript  
-V (hardcoded)  
+V  
 VBA (via Excel macro)  
 Visual Basic  
 Wolfram  
