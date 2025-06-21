@@ -58,6 +58,7 @@ TCL
 TypeScript  
 V  
 VBA (via Excel macro)  
+Verilog  
 Visual Basic  
 Wolfram  
 Zig (hardcoded)  
