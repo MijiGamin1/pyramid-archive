@@ -51,6 +51,7 @@ Rust
 Scala  
 Scratch  
 Shell  
+Smalltalk  
 Snap!  
 SPWN  
 Swift  
@@ -97,7 +98,6 @@ Rebol
 Ring  
 RPG  
 Scheme  
-Smalltalk  
 [Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
 SQL  
 TI-84 program  
