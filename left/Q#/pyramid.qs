@@ -1,4 +1,3 @@
-//Q# code
 // made in an online compiler: "https://quantum.microsoft.com/en-us/tools/quantum-coding"
 @EntryPoint()
 operation Pyramid() : Unit {
