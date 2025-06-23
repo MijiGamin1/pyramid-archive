@@ -1,6 +1,5 @@
-// made here: "https://quantum.microsoft.com/en-us/tools/quantum-coding"
-//it's a Microsoft Quantum Emulator
-//does not take user inputs because the real thing needs an extension to VScode
+//Q# code
+// made in an online compiler: "https://quantum.microsoft.com/en-us/tools/quantum-coding"
 @EntryPoint()
 operation Pyramid() : Unit {
 
