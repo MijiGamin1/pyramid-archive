@@ -10,6 +10,7 @@ Ada
 ALGOL 68  
 APL  
 Assembly  
+BASIC  
 Batch  
 Brainfuck  
 C  
@@ -69,7 +70,6 @@ Zig (hardcoded)
 Alice  
 AutoHotkey  
 B  
-BASIC  
 BCPL  
 BlitzMax  
 Chapel  
