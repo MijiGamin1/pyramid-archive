@@ -1,5 +1,5 @@
 # pyramid-archive
-A bunch of pyramids made in different programming languages. The idea is that you input a number, and it makes a "pyramid" (tower of asterisks of increasing widths) based on the number you've inputted.
+A bunch of pyramids made in different programming languages. The idea is that you input a number, and it makes a left-aligned "pyramid" (tower of asterisks of increasing widths) based on the number you've inputted.
 
 ## Cool pyramid-related things:
 [pyramid.py ran on a calculator](https://youtu.be/JQqT5u8wZeE)  
@@ -60,7 +60,7 @@ TCL
 TypeScript  
 V  
 VBA (via Excel macro)  
-Verilog  
+Verilog (hardcoded)  
 Visual Basic  
 Wolfram  
 Zig (hardcoded)  
