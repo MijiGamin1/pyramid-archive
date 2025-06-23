@@ -1,5 +1,4 @@
 //made in BlueJ
-//just copied it here
 import java.util.Scanner;
 public class Pyramid
 {
