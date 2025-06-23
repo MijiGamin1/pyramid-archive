@@ -1,4 +1,3 @@
-* Cobol code
 * Made in an online compiler
 IDENTIFICATION DIVISION.
 PROGRAM-ID. Pyramid.
