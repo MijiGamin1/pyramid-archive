@@ -1,9 +1,7 @@
-'Visual Basic code
 'Made in an online compiler
 Module VBModule
     Sub Main()
         Dim height as integer
-        
         Console.Write("Enter height of the pyramid: ")
         height = Console.ReadLine()
         
