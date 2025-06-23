@@ -1,4 +1,3 @@
-//Zig
 //does not take user input
 const std = @import("std");
 
