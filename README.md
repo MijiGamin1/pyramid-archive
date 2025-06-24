@@ -18,6 +18,7 @@ C#
 C++  
 Clojure  
 COBOL  
+CoffeeScript  
 Common Lisp  
 D  
 Dart  
