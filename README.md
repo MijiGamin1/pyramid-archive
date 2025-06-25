@@ -42,6 +42,7 @@ Octave
 Pascal  
 Perl  
 PHP  
+PicoLisp  
 Pizza (duplicate of Java)  
 PowerShell  
 Python  
