@@ -57,6 +57,7 @@ Shell
 Smalltalk  
 Snap!  
 SPWN  
+SQLite (hardcoded)  
 Swift  
 TCL  
 TypeScript  
@@ -101,7 +102,6 @@ Ring
 RPG  
 Scheme  
 [Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
-SQL  
 TI-84 program  
 Turing  
 VHDL  
