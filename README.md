@@ -13,6 +13,7 @@ Assembly
 BASIC  
 Batch  
 Brainfuck  
+Befunge-93  
 C  
 C#  
 C++  
