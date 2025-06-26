@@ -12,8 +12,8 @@ APL
 Assembly  
 BASIC  
 Batch  
-Brainfuck  
 Befunge-93  
+Brainfuck  
 C  
 C#  
 C++  
