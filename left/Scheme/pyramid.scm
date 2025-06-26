@@ -1,0 +1,7 @@
+(define n (read))
+(define b "")
+(let loop ((times n))
+   (if (= times 0)
+     (display "done")
+     (begin (set! b (string-append b "*")) (display (string-append b "\n"))
+            (loop (- times 1)))))
