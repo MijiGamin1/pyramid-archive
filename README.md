@@ -73,6 +73,7 @@ Zig (hardcoded)
 
 ## TODO:
 Alice  
+Austral  
 AutoHotkey  
 B  
 BCPL  
@@ -97,6 +98,7 @@ LiveCode
 Minecraft Commands  
 Modula-2  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
+Pike  
 Prolog  
 PowerBuilder  
 PureBasic  
