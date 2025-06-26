@@ -54,6 +54,7 @@ Racket
 Ruby  
 Rust  
 Scala  
+Scheme   
 Scratch  
 Shell  
 Smalltalk  
@@ -101,8 +102,7 @@ PowerBuilder
 PureBasic  
 Rebol  
 Ring  
-RPG  
-Scheme  
+RPG   
 [Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
 TI-84 program  
 Turing  
