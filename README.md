@@ -69,6 +69,7 @@ VBA (via Excel macro)
 Verilog (hardcoded)  
 Visual Basic  
 Wolfram  
+YueScript  
 Zig (hardcoded)  
 
 ## TODO:
