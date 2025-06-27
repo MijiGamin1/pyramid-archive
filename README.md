@@ -17,6 +17,7 @@ Brainfuck
 C  
 C#  
 C++  
+Chef  
 Clojure  
 COBOL  
 CoffeeScript  
