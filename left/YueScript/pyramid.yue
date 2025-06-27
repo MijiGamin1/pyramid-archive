@@ -1,0 +1,7 @@
+--made here: https://yuescript.org/try/
+print "Enter height of the pyramid"
+height = tonumber io.read!
+for i = 1, height
+  for j = 1, i
+    io.write "*"
+  print ""
