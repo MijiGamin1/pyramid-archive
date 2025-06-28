@@ -60,6 +60,7 @@ Scratch
 Shell  
 Smalltalk  
 Snap!  
+Sprite Lab  
 SPWN  
 SQLite (hardcoded)  
 Swift  
@@ -108,7 +109,6 @@ Rebol
 Ring  
 RPG   
 [Sapphire](https://github.com/foxzyt/Sapphire)  
-[Sprite Lab](https://code.org/en-US/tools/sprite-lab)  
 TI-84 program  
 Turing  
 VHDL  
