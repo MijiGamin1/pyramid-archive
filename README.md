@@ -111,7 +111,9 @@ RPG
 [Sapphire](https://github.com/foxzyt/Sapphire)  
 TI-84 program  
 Turing  
+Unlambda  
 VHDL  
+Whitespace  
 Xojo  
 [Z#](https://github.com/sam-astro/Z-Sharp)  
 https://github.com/leachim6/hello-world
