@@ -1,3 +1,6 @@
+//WORK IN PROGRESS
+//duplicate of java
+
 import java.util.Scanner; //duplicate of java
 public class Pyramid
 {
