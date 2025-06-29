@@ -2,6 +2,8 @@
 
 #run with nix installed with `nix-shell` pyramid.nix
 
+# WORK IN PROGRESS
+
 #! /usr/bin/env nix-shell
 #! nix-shell -i bash -p bash
 read -p "Num: " num
