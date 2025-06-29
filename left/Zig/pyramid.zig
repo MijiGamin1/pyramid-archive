@@ -1,4 +1,4 @@
-//does not take user input
+//HARDCODED
 const std = @import("std");
 
 fn pyramid(count: u8, writer: anytype) !void {
