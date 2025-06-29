@@ -1,3 +1,4 @@
+//hardcoded
 module pyramid #(parameter HEIGHT = 5) (); //User input here
   integer i,j;
   initial begin
