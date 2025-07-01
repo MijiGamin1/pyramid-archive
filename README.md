@@ -17,6 +17,7 @@ Brainfuck
 C  
 C#  
 C++  
+Casio BASIC  
 Chef  
 Clojure  
 COBOL  
