@@ -1,0 +1,6 @@
+?→N
+For 1→I To N
+For 1→J To I
+Locate J,I,"*"
+Next
+Next
