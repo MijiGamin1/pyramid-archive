@@ -96,8 +96,9 @@ Hack
 Haxe  
 GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
-Io  
 Icon  
+INTERCAL  
+Io  
 J  
 LiveCode  
 Minecraft Commands  
