@@ -28,6 +28,7 @@ Dart
 Elixir  
 Erlang  
 Fortran 95  
+Gen Alpha Brainrot  
 Go  
 Groovy  
 Haskell  
