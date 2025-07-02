@@ -23,6 +23,7 @@ Clojure
 COBOL  
 CoffeeScript  
 Common Lisp  
+CompressedBF  
 D  
 Dart  
 Elixir  
