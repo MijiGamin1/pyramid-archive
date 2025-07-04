@@ -34,6 +34,7 @@ Go
 Groovy  
 Hack  
 Haskell  
+Haxe  
 Java  
 JavaScript  
 Julia  
@@ -95,7 +96,6 @@ Eiffel
 Emojicode  
 Factor  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
-Haxe  
 GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
 Icon  
