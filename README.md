@@ -51,6 +51,7 @@ Perl
 PHP  
 PicoLisp  
 Pizza (duplicate of Java)  
+POSIX bc  
 PowerShell  
 Python  
 Q# (hardcoded)  
