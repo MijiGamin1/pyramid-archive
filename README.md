@@ -32,6 +32,7 @@ Fortran 95
 Gen Alpha Brainrot  
 Go  
 Groovy  
+Hack  
 Haskell  
 Java  
 JavaScript  
@@ -93,7 +94,6 @@ Discord bot
 Eiffel  
 Emojicode  
 Factor  
-Hack  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 Haxe  
 GDScript  
