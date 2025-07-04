@@ -1,0 +1,12 @@
+//made in jdoodle
+"Enter a number: "
+height = read()+0;
+
+for (i = 1; i <= height; i++) {
+    for (j = 1; j <= i; j++) {
+        "*"
+    }
+    print "\n"
+}
+
+quit;
