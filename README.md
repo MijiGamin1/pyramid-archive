@@ -96,6 +96,7 @@ Discord bot
 Eiffel  
 Emojicode  
 Factor  
+Forth  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
