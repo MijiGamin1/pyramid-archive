@@ -1,4 +1,5 @@
 'jdoodle be clutchin
+'awk tuah!!!!! 🤣🤣🤣🤣🤣🤣🤣🤣
 BEGIN {
    printf "Enter height of the pyramid: ";
    getline height < "-";
