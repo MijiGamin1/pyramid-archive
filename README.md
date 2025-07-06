@@ -37,6 +37,7 @@ Groovy
 Hack  
 Haskell  
 Haxe  
+Icon  
 Java  
 JavaScript  
 Julia  
@@ -100,11 +101,12 @@ Factor
 Forth  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 GDScript  
+Goaldi  
 [Griddycode](https://github.com/face-hh/griddycode)   
-Icon  
 INTERCAL  
 Io  
 J  
+jq  
 LiveCode  
 Minecraft Commands  
 Modula-2  
@@ -118,9 +120,11 @@ Rebol
 Ring  
 RPG   
 [Sapphire](https://github.com/foxzyt/Sapphire)  
+SNOBOL  
 TI-84 program  
 Turing  
 [Turing Machine But Way Worse](https://esolangs.org/wiki/Turing_Machine_But_Way_Worse)  
+Unicon  
 Unlambda  
 VHDL  
 Whitespace  
