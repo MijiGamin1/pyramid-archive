@@ -25,6 +25,7 @@ COBOL
 CoffeeScript  
 Common Lisp  
 CompressedBF  
+Crystal  
 D  
 Dart  
 Elixir  
@@ -91,7 +92,6 @@ BlitzMax
 Chapel  
 COBOLScript  
 COW  
-Crystal  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 Discord bot  
 Eiffel  
