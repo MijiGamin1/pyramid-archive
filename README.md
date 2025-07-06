@@ -10,6 +10,7 @@ Ada
 ALGOL 68  
 APL  
 Assembly  
+AWK  
 BASIC  
 Batch  
 Befunge-93  
