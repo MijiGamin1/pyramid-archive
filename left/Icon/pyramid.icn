@@ -1,0 +1,8 @@
+procedure main()
+	num := read();
+	block := "";
+	every i := 1 to num do {
+		block := block || "*";
+		write(block);
+	}
+end
