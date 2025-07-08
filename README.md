@@ -125,7 +125,6 @@ SNOBOL
 TI-84 program  
 Turing  
 [Turing Machine But Way Worse](https://esolangs.org/wiki/Turing_Machine_But_Way_Worse)  
-Unicon  
 Unlambda  
 VHDL  
 Whitespace  
