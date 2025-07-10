@@ -94,6 +94,7 @@ AutoHotkey
 B  
 BCPL  
 BlitzMax  
+Blockly  
 Chapel  
 COBOLScript  
 COW  
@@ -110,6 +111,7 @@ Goaldi
 INTERCAL  
 Io  
 J  
+JBang  
 jq  
 LiveCode  
 Minecraft Commands  
