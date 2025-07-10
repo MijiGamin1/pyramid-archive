@@ -6,7 +6,7 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 [pyramid.py ran on a calculator](https://youtu.be/JQqT5u8wZeE)  
 [pyramid code in desmos](https://www.desmos.com/calculator/grods4qbsy)
 
-## Programing Languages already done:
+## Programming Languages already done:
 Ada  
 ALGOL 68  
 APL  
