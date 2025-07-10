@@ -31,6 +31,7 @@ D
 Dart  
 Elixir  
 Erlang  
+Falcon  
 Fortran 95  
 Gen Alpha Brainrot  
 Go  
