@@ -1,0 +1,9 @@
+REM why does jdoodle low key have every programming language
+print "Enter height of the pyramid: ";
+input height
+for i = 1 to height
+    for j = 1 to i
+        print "*";
+    next j
+    print ""
+next i
