@@ -1,0 +1,9 @@
+//once again thank you jdoodle
+print("Enter height of the pyramid: ")
+height = int(input())
+for i = 1 to height
+    for j = 1 to i
+        print("*")
+    end
+    printl("")
+end
