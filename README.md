@@ -63,6 +63,7 @@ Q# (hardcoded)
 QBASIC (QB64)  
 R  
 Racket  
+Raku  
 Ruby  
 Rust  
 Scala  
