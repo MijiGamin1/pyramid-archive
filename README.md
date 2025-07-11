@@ -109,7 +109,6 @@ Factor
 Forth  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 GDScript  
-Goaldi  
 [Griddycode](https://github.com/face-hh/griddycode)   
 INTERCAL  
 Io  
