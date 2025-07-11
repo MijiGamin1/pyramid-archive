@@ -1,5 +1,3 @@
-% AUTHOR: mulch-est
-% COMPILER: tio.run/#prolog-swi
 
 star :- write("*").
 
@@ -29,4 +27,3 @@ read_pyramid :-
     pyramid(X).
 
 :- initialization(read_pyramid).
-Footer
