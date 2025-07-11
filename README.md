@@ -58,6 +58,7 @@ PicoLisp
 Pizza (duplicate of Java)  
 POSIX bc  
 PowerShell  
+Prolog  
 Python  
 Q# (hardcoded)  
 QBASIC (QB64)  
