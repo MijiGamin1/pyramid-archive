@@ -1,4 +1,4 @@
-
+%Code submitted by mulch-est
 star :- write("*").
 
 % print N stars
