@@ -58,6 +58,7 @@ PicoLisp
 Pizza (duplicate of Java)  
 POSIX bc  
 PowerShell  
+Prolog  
 Python  
 Q# (hardcoded)  
 QBASIC (QB64)  
@@ -88,6 +89,7 @@ YueScript
 Zig (hardcoded)  
 
 ## TODO:
+[(1) Grace sent you a message](https://esolangs.org/wiki/(1)_Grace_sent_you_a_message)  
 Alice  
 [AmitabhC](https://jay123anta.github.io/amitabhc/editor.html)  
 Austral  
@@ -107,7 +109,6 @@ Factor
 Forth  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 GDScript  
-Goaldi  
 [Griddycode](https://github.com/face-hh/griddycode)   
 INTERCAL  
 Io  

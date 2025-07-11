@@ -1,3 +1,4 @@
+
 star :- write("*").
 
 % print N stars
