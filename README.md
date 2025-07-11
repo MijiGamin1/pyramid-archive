@@ -128,7 +128,7 @@ Ring
 RPG   
 [Sapphire](https://github.com/foxzyt/Sapphire)  
 SNOBOL  
-TI-84 program  
+TI-BASIC  
 Turing  
 [Turing Machine But Way Worse](https://esolangs.org/wiki/Turing_Machine_But_Way_Worse)  
 Unlambda  
