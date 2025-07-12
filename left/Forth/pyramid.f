@@ -1,5 +1,5 @@
 ( Code originally submitted by mulch-est --
- Run with a line break [hit the enter key] after the number)
+ Run with a line break [hit the enter key] after the number )
 : STAR ." *" ;
 
 : STAR-ITER ( n -- )
