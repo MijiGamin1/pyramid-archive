@@ -32,7 +32,7 @@ Dart
 Elixir  
 Erlang  
 Falcon  
-Forth
+Forth  
 Fortran 95  
 Gen Alpha Brainrot  
 Go  
