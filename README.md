@@ -32,6 +32,7 @@ Dart
 Elixir  
 Erlang  
 Falcon  
+Forth
 Fortran 95  
 Gen Alpha Brainrot  
 Go  
@@ -106,7 +107,6 @@ Discord bot
 Eiffel  
 Emojicode  
 Factor  
-Forth  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
