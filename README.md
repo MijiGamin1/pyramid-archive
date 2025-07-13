@@ -27,7 +27,7 @@ CoffeeScript
 Common Lisp  
 CompressedBF  
 Crystal  
-Cutw  
+Cutw (BF copy)  
 D  
 Dart  
 Elixir  
@@ -35,10 +35,9 @@ Erlang
 Falcon  
 Forth  
 Fortran 95  
-Gen Alpha Brainrot  
+Gen Alpha Brainrot (BF copy)  
 Go  
 Groovy  
-GW-BASIC  
 Hack  
 Haskell  
 Haxe  
@@ -49,9 +48,10 @@ Julia
 Kotlin  
 LolCode  
 Lua  
+Mariofuck (BF copy)  
 Nix (duplicate of Bash)  
 Nim  
-Numberfuck  
+Numberfuck (BF copy)  
 Objective-C  
 OCaml  
 Octave  
@@ -113,6 +113,7 @@ Factor
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
+GW-BASIC  
 INTERCAL  
 Io  
 J  
