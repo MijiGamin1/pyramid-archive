@@ -27,6 +27,7 @@ CoffeeScript
 Common Lisp  
 CompressedBF  
 Crystal  
+Cutw  
 D  
 Dart  
 Elixir  
