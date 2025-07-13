@@ -50,6 +50,7 @@ LolCode
 Lua  
 Nix (duplicate of Bash)  
 Nim  
+Numberfuck  
 Objective-C  
 OCaml  
 Octave  
