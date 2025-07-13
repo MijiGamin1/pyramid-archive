@@ -38,6 +38,7 @@ Fortran 95
 Gen Alpha Brainrot  
 Go  
 Groovy  
+GW-BASIC  
 Hack  
 Haskell  
 Haxe  
