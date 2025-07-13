@@ -123,6 +123,7 @@ Modula-2
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
 Pike  
+[Poetic](https://esolangs.org/wiki/Poetic_(esolang))
 PowerBuilder  
 PureBasic  
 Rebol  
