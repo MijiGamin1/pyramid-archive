@@ -139,6 +139,7 @@ Turing
 [Turing Machine But Way Worse](https://esolangs.org/wiki/Turing_Machine_But_Way_Worse)  
 Unlambda  
 VHDL  
+[Waduzitdo](https://esolangs.org/wiki/Waduzitdo)
 Whitespace  
 Xojo  
 [Z#](https://github.com/sam-astro/Z-Sharp)  
