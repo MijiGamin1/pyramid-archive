@@ -121,7 +121,7 @@ Modula-2
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
 Pike  
-[Poetic](https://esolangs.org/wiki/Poetic_(esolang))
+[Poetic](https://esolangs.org/wiki/Poetic_(esolang))  
 PowerBuilder  
 PureBasic  
 Rebol  
@@ -135,7 +135,7 @@ Turing
 [Turing Machine But Way Worse](https://esolangs.org/wiki/Turing_Machine_But_Way_Worse)  
 Unlambda  
 VHDL  
-[Waduzitdo](https://esolangs.org/wiki/Waduzitdo)
+[Waduzitdo](https://esolangs.org/wiki/Waduzitdo)  
 Whitespace  
 Xojo  
 [Z#](https://github.com/sam-astro/Z-Sharp)  
