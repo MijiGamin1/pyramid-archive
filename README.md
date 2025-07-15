@@ -26,8 +26,7 @@ COBOL
 CoffeeScript  
 Common Lisp  
 CompressedBF  
-Crystal  
-Cutw (BF copy)  
+Crystal   
 D  
 Dart  
 Elixir  
@@ -35,7 +34,6 @@ Erlang
 Falcon  
 Forth  
 Fortran 95  
-Gen Alpha Brainrot (BF copy)  
 Go  
 Groovy  
 Hack  
@@ -47,11 +45,9 @@ JavaScript
 Julia  
 Kotlin  
 LolCode  
-Lua  
-Mariofuck (BF copy)  
+Lua   
 Nix (duplicate of Bash)  
 Nim  
-Numberfuck (BF copy)  
 Objective-C  
 OCaml  
 Octave  
