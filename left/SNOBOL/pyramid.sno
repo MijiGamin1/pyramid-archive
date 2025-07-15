@@ -1,0 +1,6 @@
+    Line = INPUT
+    Line SPAN("0123456789") . Num
+    IDENT(Line, Num) :F(END)
+    Max = DUPL("*", Num + 1)
+    Max arb $ OUTPUT "x"
+END
