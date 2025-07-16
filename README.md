@@ -34,7 +34,8 @@ Elixir
 Erlang  
 Falcon  
 Forth  
-Fortran 95  
+FORTRAN 90
+FORTRAN 95  
 Go  
 Groovy  
 Hack  
