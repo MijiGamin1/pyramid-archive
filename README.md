@@ -48,6 +48,7 @@ Julia
 Kotlin  
 LolCode  
 Lua   
+Lythnology  
 Nix (duplicate of Bash)  
 Nim  
 Objective-C  
