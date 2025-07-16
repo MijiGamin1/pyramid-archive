@@ -40,6 +40,7 @@ Hack
 Haskell  
 Haxe  
 Icon  
+J  
 Java  
 JavaScript  
 Julia  
@@ -88,6 +89,9 @@ YaBasic
 YueScript  
 Zig (hardcoded)  
 
+## Additional contributors:  
+zipsegv (J)  
+
 ## TODO:
 [(1) Grace sent you a message](https://esolangs.org/wiki/(1)_Grace_sent_you_a_message)  
 Alice  
@@ -112,7 +116,6 @@ GDScript
 GW-BASIC  
 INTERCAL  
 Io  
-J  
 JBang  
 jq  
 LiveCode  
