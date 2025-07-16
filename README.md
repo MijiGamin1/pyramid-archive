@@ -15,6 +15,7 @@ AWK
 BASIC  
 Batch  
 Befunge-93  
+Bespoke  
 Brainfuck  
 C  
 C#  
