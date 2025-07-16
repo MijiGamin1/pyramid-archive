@@ -1,0 +1,11 @@
+Prompt size
+Pyramid = " "
+Pointer = Size
+Symbol = "*"
+:PyramidConstruction
+Io = Pointer>0
+Pos = Size-Pointer
+Pyramid[Pos] = Symbol
+Print Pyramid
+Pointer = Pointer-1
+Halt = Pointer<=0
