@@ -105,6 +105,7 @@ Austral
 AutoHotkey  
 B  
 BCPL  
+[Bend](https://github.com/HigherOrderCO/Bend/tree/main)
 BlitzMax  
 Blockly  
 Chapel  
