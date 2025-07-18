@@ -45,6 +45,7 @@ Icon
 J  
 Java  
 JavaScript  
+JBang  
 Julia  
 Kotlin  
 LaTeX  
