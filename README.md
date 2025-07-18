@@ -34,7 +34,7 @@ Elixir
 Erlang  
 Falcon  
 Forth  
-FORTRAN 90
+FORTRAN 90  
 FORTRAN 95  
 Go  
 Groovy  
@@ -105,7 +105,7 @@ Austral
 AutoHotkey  
 B  
 BCPL  
-[Bend](https://github.com/HigherOrderCO/Bend/tree/main)
+[Bend](https://github.com/HigherOrderCO/Bend/tree/main)  
 BlitzMax  
 Blockly  
 Chapel  
