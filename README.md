@@ -32,6 +32,7 @@ D
 Dart  
 Elixir  
 Erlang  
+Factor  
 Falcon  
 Forth  
 FORTRAN 90  
@@ -116,7 +117,6 @@ COW
 Discord bot  
 Eiffel  
 Emojicode  
-Factor  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
