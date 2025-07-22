@@ -72,6 +72,7 @@ QBASIC (QB64)
 R  
 Racket  
 Raku  
+REBOL  
 Ruby  
 Rust  
 Scala  
@@ -134,7 +135,6 @@ Pike
 PowerBuilder  
 PureBasic  
 Reason  
-Rebol  
 Ring  
 RPG   
 [Sapphire](https://github.com/foxzyt/Sapphire)  
