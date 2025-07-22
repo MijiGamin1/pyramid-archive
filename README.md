@@ -21,6 +21,7 @@ C
 C#  
 C++  
 Casio BASIC  
+Chapel  
 Chef  
 Clojure  
 COBOL  
@@ -112,7 +113,6 @@ BCPL
 [Bend](https://github.com/HigherOrderCO/Bend/tree/main)  
 BlitzMax  
 Blockly  
-Chapel  
 COBOLScript  
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
