@@ -43,6 +43,7 @@ Hack
 Haskell  
 Haxe  
 Icon  
+Io  
 J  
 Java  
 JavaScript  
@@ -123,7 +124,6 @@ GDScript
 [Griddycode](https://github.com/face-hh/griddycode)   
 GW-BASIC  
 INTERCAL  
-Io  
 jq  
 LiveCode  
 Minecraft Commands  
