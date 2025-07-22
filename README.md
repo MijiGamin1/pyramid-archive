@@ -123,7 +123,6 @@ GDScript
 GW-BASIC  
 INTERCAL  
 Io  
-JBang  
 jq  
 LiveCode  
 Minecraft Commands  
