@@ -1,0 +1,4 @@
+# By Hemisputnik at https://512b.dev/
+⋕ &sc     # Scan stdin and parse number
++1 ⇡      # Create an array with elements 1..n+1
+≡(&p ⍥@*) # For each row, repeat asterisk, then print
