@@ -106,6 +106,7 @@ zipsegv (J)
 
 ## TODO:
 [(1) Grace sent you a message](https://esolangs.org/wiki/(1)_Grace_sent_you_a_message)  
+Act1  
 Alice  
 [AmitabhC](https://jay123anta.github.io/amitabhc/editor.html)  
 Austral  
@@ -122,6 +123,7 @@ Discord bot
 Eiffel  
 Emojicode  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
+Harbour  
 GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
 GW-BASIC  
@@ -131,16 +133,19 @@ LiveCode
 [MarioLANG](https://esolangs.org/wiki/MarioLANG)  
 Minecraft Commands  
 Modula-2  
+NewtonScript  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
 Pike  
 [Poetic](https://esolangs.org/wiki/Poetic_(esolang))  
+Potion  
 PowerBuilder  
 PureBasic  
 Reason  
 Ring  
 RPG   
 [Sapphire](https://github.com/foxzyt/Sapphire)  
+Self  
 SNOBOL  
 [Thue](https://esolangs.org/wiki/Thue)  
 TI-BASIC  
