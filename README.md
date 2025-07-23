@@ -145,7 +145,6 @@ SNOBOL
 [Thue](https://esolangs.org/wiki/Thue)  
 TI-BASIC  
 Turing  
-[Turing Machine But Way Worse](https://esolangs.org/wiki/Turing_Machine_But_Way_Worse)  
 Unlambda  
 VHDL  
 Whitespace  
