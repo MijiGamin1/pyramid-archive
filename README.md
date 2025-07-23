@@ -106,7 +106,7 @@ Zig (hardcoded)
 ## Additional contributors:  
 zipsegv (J)  
 [hemisputnik](https://512b.dev/) (Uiua)  
-Kamila Szewczyk (Malbolge Unshackled)  
+Kamila Szewczyk (Assembly, Malbolge Unshackled)  
 
 ## TODO:
 [(1) Grace sent you a message](https://esolangs.org/wiki/(1)_Grace_sent_you_a_message)  
