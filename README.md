@@ -89,6 +89,7 @@ SPWN
 SQLite (hardcoded)  
 Swift  
 TCL  
+Turing Machine But Way Worse  
 TypeScript  
 V  
 VBA (via Excel macro)  
