@@ -91,6 +91,7 @@ Swift
 TCL  
 Turing Machine But Way Worse  
 TypeScript  
+Uiua  
 V  
 VBA (via Excel macro)  
 Verilog (hardcoded)  
@@ -103,6 +104,7 @@ Zig (hardcoded)
 
 ## Additional contributors:  
 zipsegv (J)  
+[hemisputnik](https://512b.dev/) (Uiua)  
 
 ## TODO:
 [(1) Grace sent you a message](https://esolangs.org/wiki/(1)_Grace_sent_you_a_message)  
