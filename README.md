@@ -127,7 +127,7 @@ GW-BASIC
 INTERCAL  
 jq  
 LiveCode  
-[MarioLANG](https://esolangs.org/wiki/MarioLANG)
+[MarioLANG](https://esolangs.org/wiki/MarioLANG)  
 Minecraft Commands  
 Modula-2  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
