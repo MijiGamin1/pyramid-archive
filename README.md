@@ -36,6 +36,7 @@ Elixir
 Erlang  
 Factor  
 Falcon  
+fish  
 Frosty  
 Forth  
 FORTRAN 90  
