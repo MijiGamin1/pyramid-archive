@@ -100,6 +100,7 @@ Verilog (hardcoded)
 Visual Basic  
 Windmill  
 Wolfram  
+Wren (hardcoded)  
 YaBasic  
 YueScript  
 Zig (hardcoded)  
