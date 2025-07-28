@@ -1,0 +1,12 @@
+inputR
+hold len
+del 0
+0
+repeat $len
+ 1
+ +
+ repeat [0
+  outputC 42
+ next
+ outputC 10
+next
