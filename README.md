@@ -17,6 +17,7 @@ BASIC
 Batch  
 Befunge-93  
 Bespoke  
+Boo  
 Brainfuck  
 C  
 C#  
