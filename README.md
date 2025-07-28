@@ -117,7 +117,7 @@ Kamila Szewczyk (Assembly, Malbolge Unshackled)
 Act1  
 Alice  
 [AmitabhC](https://jay123anta.github.io/amitabhc/editor.html)  
-[Attache](https://github.com/ConorOBrien-Foxx/Attache)
+[Attache](https://github.com/ConorOBrien-Foxx/Attache)  
 Austral  
 AutoHotkey  
 B  
@@ -126,6 +126,7 @@ BeanShell
 [Bend](https://github.com/HigherOrderCO/Bend/tree/main)  
 BlitzMax  
 Blockly  
+Bracmat  
 COBOLScript  
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
