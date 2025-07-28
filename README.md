@@ -19,6 +19,7 @@ Befunge-93
 Bespoke  
 Boo  
 Brainfuck  
+Brat  
 C  
 C#  
 C++  
