@@ -116,11 +116,13 @@ Kamila Szewczyk (Assembly, Malbolge Unshackled)
 Act1  
 Alice  
 [AmitabhC](https://jay123anta.github.io/amitabhc/editor.html)  
+[Attache](https://github.com/ConorOBrien-Foxx/Attache)
 Austral  
 AutoHotkey  
 B  
 [bc](https://en.wikipedia.org/wiki/Bc_(programming_language))  
 BCPL  
+BeanShell
 [Bend](https://github.com/HigherOrderCO/Bend/tree/main)  
 BlitzMax  
 Blockly  
