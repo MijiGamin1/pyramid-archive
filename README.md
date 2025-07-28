@@ -122,7 +122,7 @@ AutoHotkey
 B  
 [bc](https://en.wikipedia.org/wiki/Bc_(programming_language))  
 BCPL  
-BeanShell
+BeanShell  
 [Bend](https://github.com/HigherOrderCO/Bend/tree/main)  
 BlitzMax  
 Blockly  
