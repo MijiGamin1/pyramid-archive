@@ -128,6 +128,11 @@ BeanShell
 BlitzMax  
 Blockly  
 Bracmat  
+Caboose  
+CakeML  
+Ceylon  
+Charm  
+Cheddar  
 COBOLScript  
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
