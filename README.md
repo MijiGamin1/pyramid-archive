@@ -81,6 +81,7 @@ R
 Racket  
 Raku  
 REBOL  
+Rexx  
 Ruby  
 Rust  
 Scala  
@@ -154,6 +155,7 @@ NewtonScript
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
 Pike  
+PL/I  
 [Poetic](https://esolangs.org/wiki/Poetic_(esolang))  
 Potion  
 PowerBuilder  
