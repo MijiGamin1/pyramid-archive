@@ -61,7 +61,6 @@ LolCode
 Lua   
 Lythnology  
 Malbolge Unshackled  
-Nix (duplicate of Bash)  
 Nim  
 Objective-C  
 OCaml  
@@ -70,7 +69,6 @@ Pascal
 Perl  
 PHP  
 PicoLisp  
-Pizza (duplicate of Java)  
 POSIX bc  
 PowerShell  
 Prolog  
