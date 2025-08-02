@@ -57,6 +57,7 @@ JBang
 Julia  
 Kotlin  
 LaTeX  
+Lean 4  
 LolCode  
 Lua   
 Lythnology  
