@@ -61,7 +61,6 @@ LolCode
 Lua   
 Lythnology  
 Malbolge Unshackled  
-Nix (duplicate of Bash)  
 Nim  
 Objective-C  
 OCaml  
@@ -70,7 +69,6 @@ Pascal
 Perl  
 PHP  
 PicoLisp  
-Pizza (duplicate of Java)  
 POSIX bc  
 PowerShell  
 Prolog  
@@ -81,6 +79,7 @@ R
 Racket  
 Raku  
 REBOL  
+Rexx  
 Ruby  
 Rust  
 Scala  
@@ -128,6 +127,11 @@ BeanShell
 BlitzMax  
 Blockly  
 Bracmat  
+Caboose  
+CakeML  
+Ceylon  
+Charm  
+Cheddar  
 COBOLScript  
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
@@ -149,6 +153,7 @@ NewtonScript
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
 Pike  
+PL/I  
 [Poetic](https://esolangs.org/wiki/Poetic_(esolang))  
 Potion  
 PowerBuilder  

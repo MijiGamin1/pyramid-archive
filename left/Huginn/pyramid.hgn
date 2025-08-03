@@ -1,0 +1,13 @@
+main() {
+	n = 7; // hardcoded, made in TIO, run with Command-line option "--no-argv"
+	x = ( n + 1 );
+	while ( n > 0 ) { 
+		i = ( x - n);
+		while ( i > 0 ) {
+			print("*");
+			i -= 1;
+		}
+		print("\n");
+		n -= 1;
+	}
+}

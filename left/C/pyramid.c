@@ -1,13 +1,15 @@
-#include<stdio.h>
-#include<string.h>
-int main() {
-    int num;
-    scanf("%d", &num);
-    char pyr[] = "";
-    for (int i = 1; i < num+1; i++) {
-        strcat(pyr, "*");
-        printf("%s\n", pyr);
-        
-    }
-    
+#include <stdio.h>
+
+int main(void) {
+	unsigned int height;
+	scanf("%u", &height);
+
+	for (unsigned int row = 1; row <= height; row++) {
+		for (unsigned int length = 1; length <= row; length++) {
+			putchar('*');
+		}
+		putchar('\n');
+	}
+
+	return 0;
 }
