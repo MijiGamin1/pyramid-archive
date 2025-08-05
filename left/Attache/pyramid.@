@@ -1,0 +1,6 @@
+n := ReadInt["Number: "]
+b := ""
+ForEach[Range[1, n], {
+	b := b + "*"
+	Print[b]
+}[]]
