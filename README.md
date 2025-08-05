@@ -12,6 +12,7 @@ Ada
 ALGOL 68  
 APL  
 Assembly  
+Attache  
 AWK  
 BASIC  
 Batch  
@@ -62,6 +63,7 @@ LolCode
 Lua   
 Lythnology  
 Malbolge Unshackled  
+MoreMathRPN  
 Nim  
 Objective-C  
 OCaml  
@@ -109,9 +111,10 @@ YueScript
 Zig (hardcoded)  
 
 ## Additional contributors:  
-zipsegv (J)  
 [hemisputnik](https://512b.dev/) (Uiua)  
 Kamila Szewczyk (Assembly, Malbolge Unshackled)  
+somebody1234 (Attache)  
+zipsegv (J)  
 
 ## TODO:
 [(1) Grace sent you a message](https://esolangs.org/wiki/(1)_Grace_sent_you_a_message)  
