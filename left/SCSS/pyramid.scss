@@ -1,0 +1,7 @@
+@use "sass:string"; //ran using https://sass-lang.com/playground/
+$n: 5; //hardcoded, adjust this variable
+$b: "";
+@for $i from 0 to $n {
+  $b: $b + "*";
+  @debug $b
+}
