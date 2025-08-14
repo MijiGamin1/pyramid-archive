@@ -88,6 +88,7 @@ Rust
 Scala  
 Scheme   
 Scratch  
+SCSS (hardcoded)  
 Shell  
 Smalltalk  
 Snap!  
