@@ -96,6 +96,7 @@ Snap!
 Sprite Lab  
 SPWN  
 SQLite (hardcoded)  
+Svelte  
 Swift  
 TCL  
 Turing Machine But Way Worse  
