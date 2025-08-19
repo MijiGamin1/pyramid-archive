@@ -39,6 +39,7 @@ Elixir
 Erlang  
 Factor  
 Falcon  
+Fantom  
 fish  
 Frosty  
 Forth  
