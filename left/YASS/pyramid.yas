@@ -1,6 +1,0 @@
-$n = 5 //hardcoded atm but I/O is possible
-$b = "" //ran with https://www.jamiebalfour.scot/projects/zpe/test/
-for ($i = 0; $i < $n; $i++)
-    $b = $b & "*"
-    print($b)
-end for
