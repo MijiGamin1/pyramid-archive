@@ -110,7 +110,7 @@ Windmill
 Wolfram  
 Wren  
 YaBasic  
-YASS (hardcoded)  
+YASS    
 YueScript  
 Zig (hardcoded)  
 
