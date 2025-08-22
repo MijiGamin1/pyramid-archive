@@ -154,6 +154,7 @@ INTERCAL
 jq  
 LiveCode  
 [MarioLANG](https://esolangs.org/wiki/MarioLANG)  
+[Mark](https://esolangs.org/wiki/Mark)  
 Minecraft Commands  
 Modula-2  
 NewtonScript  
