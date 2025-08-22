@@ -1,0 +1,5 @@
+input number = n
+"" = b
+{ b + "*" = b b output n - 1 = n }
+{ n > 0 }
+while
