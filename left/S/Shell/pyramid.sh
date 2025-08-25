@@ -1,5 +1,5 @@
 #i dont use linux, so this might not work on all distros
-#i used ParrotOS on a different computer to make this
+#i used ParrotOS on a virtual machine to make this
 
 read -p "Num: " num
 for i in $(seq 1 $num)
