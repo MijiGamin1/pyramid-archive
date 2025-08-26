@@ -126,6 +126,7 @@ zipsegv (J)
 Act1  
 Alice  
 [AmitabhC](https://jay123anta.github.io/amitabhc/editor.html)  
+[Appleseed](https://github.com/dloscutoff/appleseed)  
 Austral  
 AutoHotkey  
 B  
