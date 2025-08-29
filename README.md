@@ -92,6 +92,7 @@ Scheme
 Scratch  
 SCSS (hardcoded)  
 Shell  
+Sidef  
 Smalltalk  
 Snap!  
 Sprite Lab  
