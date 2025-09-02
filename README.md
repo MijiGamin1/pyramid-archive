@@ -159,6 +159,7 @@ LiveCode
 [Mark](https://esolangs.org/wiki/Mark)  
 Minecraft Commands  
 Modula-2  
+[Mouse](https://en.wikipedia.org/wiki/Mouse_(programming_language))  
 NewtonScript  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
