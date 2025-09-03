@@ -74,6 +74,7 @@ Pascal
 Perl  
 PHP  
 PicoLisp  
+Pike (hardcoded)  
 POSIX bc  
 PowerShell  
 Prolog  
@@ -163,7 +164,6 @@ Modula-2
 NewtonScript  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
-Pike  
 PL/I  
 [Poetic](https://esolangs.org/wiki/Poetic_(esolang))  
 Potion  
