@@ -65,6 +65,7 @@ LolCode
 Lua   
 Lythnology  
 Malbolge Unshackled  
+MoonScript
 MoreMathRPN  
 Nim  
 Objective-C  
