@@ -175,6 +175,7 @@ RPG
 [Sapphire](https://github.com/foxzyt/Sapphire)  
 Self  
 SNOBOL  
+Standard ML  
 [Thue](https://esolangs.org/wiki/Thue)  
 TI-BASIC  
 Turing  
