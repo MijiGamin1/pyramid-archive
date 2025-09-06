@@ -1,8 +1,15 @@
-int main() {
-	int n = 5; //hardcoded atm with ideone.com, will fix later
-	string b = "";
-	for(int i = 1; i <= n; i++) {
-		b = b + "*";
-		write(b + "\n");
-	}
+int main()
+{
+    Stdio.Readline readline = Stdio.Readline(); //made in JDoodle
+    string b = "";
+    string str = readline->read();
+    int n = (int)str;
+    int i;
+    while (i < n)
+    {
+        b = b + "*"; 
+        write(b + "\n");
+        i = i + 1;
+    }
+    return 0;
 }
