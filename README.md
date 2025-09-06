@@ -75,7 +75,7 @@ Pascal
 Perl  
 PHP  
 PicoLisp  
-Pike (hardcoded)  
+Pike  
 POSIX bc  
 PowerShell  
 Prolog  
