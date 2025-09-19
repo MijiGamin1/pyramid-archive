@@ -35,6 +35,7 @@ Common Lisp
 CompressedBF  
 Crystal   
 D  
+Dafny (hardcoded)  
 Dart  
 Elixir  
 Erlang  
