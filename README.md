@@ -69,6 +69,7 @@ Lythnology
 Malbolge Unshackled  
 MoonScript
 MoreMathRPN  
+Mouse-2002  
 Nim  
 Objective-C  
 OCaml  
