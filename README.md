@@ -12,6 +12,7 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 Ada  
 ALGOL 68  
 APL  
+AsciiDots  
 Assembly  
 Attache  
 AWK  
