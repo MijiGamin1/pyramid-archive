@@ -30,6 +30,7 @@ C++
 Casio BASIC  
 Chapel  
 Chef  
+CJam  
 Clojure  
 COBOL  
 CoffeeScript  
@@ -146,8 +147,7 @@ Caboose
 CakeML  
 Ceylon  
 Charm  
-Cheddar  
-[CJam](https://esolangs.org/wiki/CJam)  
+Cheddar    
 COW  
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 Discord bot  
