@@ -10,6 +10,7 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 ## Programming Languages already done:
 ‎><>  
 Ada  
+AEL  
 ALGOL 68  
 APL  
 AsciiDots  
