@@ -95,6 +95,7 @@ REBOL
 Rexx  
 Ruby  
 Rust  
+SAM Root
 Scala  
 Scheme   
 Scratch  
