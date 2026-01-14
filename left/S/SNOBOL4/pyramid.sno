@@ -1,8 +1,0 @@
-BEGIN 
-      N = INPUT
-      B = ""
-LOOP  B = B "*"
-      N = N - 1
-      OUTPUT = B
-      EQ(N,0) :F(LOOP)
-END
