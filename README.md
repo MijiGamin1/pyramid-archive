@@ -104,6 +104,8 @@ Shell
 Sidef  
 Smalltalk  
 Snap!  
+SNOBOL  
+SNOBOL4  
 Sprite Lab  
 SPWN  
 SQLite (hardcoded)  
