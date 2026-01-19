@@ -17,7 +17,7 @@ AsciiDots
 Assembly  
 Attache  
 AWK  
-B  
+B (hardcoded)  
 BASIC  
 Batch  
 Befunge-93  
