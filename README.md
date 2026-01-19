@@ -71,7 +71,7 @@ LolCode
 Lua   
 Lythnology  
 Malbolge Unshackled  
-MoonScript
+MoonScript  
 MoreMathRPN  
 Mouse-2002  
 Nim  
