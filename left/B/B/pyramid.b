@@ -1,4 +1,4 @@
-main () {
+main () { /* ran with https://tio.run/#ybc */
 	auto n;
 	auto j;
 	n = 5; /* Hardcoded, edit this variable */
