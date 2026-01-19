@@ -1,0 +1,10 @@
+LIGHTS
+CAMERA
+    VIJAY b = ""
+    SUNO n
+    JAB TAK n != 0
+        VIJAY b = b + "*"
+        BOLO b
+        VIJAY n = n - 1
+    RAHEGA
+ACTION
