@@ -12,6 +12,7 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 Ada  
 AEL  
 ALGOL 68  
+AmitabhC  
 APL  
 AsciiDots  
 Assembly  
@@ -136,7 +137,6 @@ zipsegv (J)
 ## TODO:
 Act1  
 Alice  
-[AmitabhC](https://jay123anta.github.io/amitabhc/editor.html)  
 [Appleseed](https://github.com/dloscutoff/appleseed)  
 Austral  
 AutoHotkey  
