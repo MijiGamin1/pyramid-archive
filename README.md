@@ -17,6 +17,7 @@ AsciiDots
 Assembly  
 Attache  
 AWK  
+B  
 BASIC  
 Batch  
 Befunge-93  
@@ -139,7 +140,6 @@ Alice
 [Appleseed](https://github.com/dloscutoff/appleseed)  
 Austral  
 AutoHotkey  
-B  
 BCPL  
 BeanShell  
 [Bend](https://github.com/HigherOrderCO/Bend/tree/main)  
