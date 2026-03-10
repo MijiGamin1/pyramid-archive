@@ -8,6 +8,7 @@ A bunch of pyramids made in different programming languages. The idea is that yo
 [pyramid code in desmos](https://www.desmos.com/calculator/grods4qbsy)
 
 ## Programming Languages already done:
+05AB1E  
 ‎><>  
 Ada  
 AEL  
@@ -150,6 +151,7 @@ Bracmat
 Caboose  
 CakeML  
 Ceylon  
+Charcoal  
 Charm  
 Cheddar    
 ColdFusion  
@@ -164,6 +166,7 @@ GDScript
 [Griddycode](https://github.com/face-hh/griddycode)   
 GW-BASIC  
 INTERCAL  
+Jelly  
 jq  
 LiveCode  
 [MarioLANG](https://esolangs.org/wiki/MarioLANG)  
