@@ -1,8 +1,8 @@
-USING: io math.parser ranges sequences ;
+USING: io math.parser ranges sequences strings ;
 IN: pyramid
 
 : make-pyramid ( n -- )
-    [1..b] [ "*" <repetition> concat print ] each ;
+    [1..b] [ CHAR: * <string> print ] each ;
 
 : pyramid-main ( -- ) readln string>number make-pyramid ;
 
