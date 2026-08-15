@@ -55,6 +55,7 @@ Frosty
 Forth  
 FORTRAN 90  
 FORTRAN 95  
+GDScript  
 Go  
 Groovy  
 Hack  
@@ -136,7 +137,6 @@ Zig (hardcoded)
 [hemisputnik](https://512b.dev/) (Uiua)  
 Kamila Szewczyk (Assembly, Malbolge Unshackled)  
 somebody1234 (Attache)  
-zipsegv (J)  
 
 ## TODO:
 Act1  
@@ -164,7 +164,6 @@ Eiffel
 Emojicode  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 Harbour  
-GDScript  
 [Griddycode](https://github.com/face-hh/griddycode)   
 GW-BASIC  
 INTERCAL  
