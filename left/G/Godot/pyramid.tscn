@@ -1,0 +1,27 @@
+[gd_scene format=3 uid="uid://hkfj05naop87"]
+
+[ext_resource type="Script" uid="uid://b3vx0nvqit1ig" path="res://pyramid.gd" id="1_1ho82"]
+
+[node name="Control" type="Control" unique_id=422903834]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Pyramid" type="VBoxContainer" parent="." unique_id=619844201]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_1ho82")
+
+[node name="Count" type="SpinBox" parent="Pyramid" unique_id=155417587]
+layout_mode = 2
+
+[node name="Output" type="TextEdit" parent="Pyramid" unique_id=976595133]
+custom_minimum_size = Vector2(500, 500)
+layout_mode = 2
+editable = false
+
+[connection signal="value_changed" from="Pyramid/Count" to="Pyramid" method="_on_count_value_changed"]
