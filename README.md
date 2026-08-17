@@ -1,7 +1,7 @@
 # pyramid-archive
 A bunch of pyramids made in different programming languages. The idea is that you input a number, and it makes a left-aligned "pyramid" (tower of asterisks of increasing widths) based on the number you've inputted. 
   
-[Discord](https://discord.gg/Ex44TjeU3Y)
+We would love to have you in the [Discord](https://discord.gg/Ex44TjeU3Y)!
 
 ## Cool pyramid-related things:
 [pyramid.py ran on a calculator](https://youtu.be/JQqT5u8wZeE)  
@@ -94,6 +94,7 @@ Prolog
 Python  
 Q# (hardcoded)  
 QBASIC (QB64)  
+Quackery  
 R  
 Racket  
 Raku  
