@@ -55,8 +55,8 @@ Frosty
 Forth  
 FORTRAN 90  
 FORTRAN 95  
-GDScript  
 Go  
+Godot (GDScript)  
 Groovy  
 Hack  
 Haskell  
