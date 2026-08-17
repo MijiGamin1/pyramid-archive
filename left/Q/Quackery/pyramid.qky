@@ -1,0 +1,3 @@
+[ [] swap times [ 42 over put dup echo$ cr ] drop ] is pyramid ( n --> )
+
+[] input $->n drop pyramid
