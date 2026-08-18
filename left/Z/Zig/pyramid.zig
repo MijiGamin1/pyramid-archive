@@ -1,22 +1,27 @@
-//HARDCODED
 const std = @import("std");
+const Io = std.Io;
 
-fn pyramid(count: u8, writer: anytype) !void {
-    var i: u8 = 0;
-    while (i < count) : (i += 1) {
-        try writer.print("*", .{});
+fn pyramid(height: u8, writer: *Io.Writer) !void {
+    for (0..height) |width| {
+        for (0..width + 1) |_|
+            try writer.print("*", .{});
+        try writer.print("\n", .{});
     }
-    try writer.print("\n", .{});
 }
 
-pub fn main() !void {
-    const stdout = std.io.getStdOut().writer();
-    const height: u8 = 5; //User input here
+pub fn main(init: std.process.Init) !void {
+    const io = init.io;
+    var stdout_buffer: [256]u8 = undefined;
+    var stdout_state = Io.File.stdout().writer(io, &stdout_buffer);
+    const stdout = &stdout_state.interface;
+    var stdin_buffer: [4]u8 = undefined;
+    var stdin_state = Io.File.stdin().reader(io, &stdin_buffer);
+    const stdin = &stdin_state.interface;
 
-    try stdout.print("Enter height of the pyramid: {d}\n", .{height});
-    
-    var i: u8 = 1;
-    while (i <= height) : (i += 1) {
-        try pyramid(i, stdout);
-    }
+    try stdout.print("Enter height of the pyramid: ", .{});
+    try stdout.flush();
+    const height = try std.fmt.parseInt(u8, (try stdin.takeDelimiter('\n')).?, 10);
+
+    try pyramid(height, stdout);
+    try stdout.flush();
 }

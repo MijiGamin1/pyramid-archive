@@ -133,7 +133,7 @@ Wren
 YaBasic  
 YASS    
 YueScript  
-Zig (hardcoded)  
+Zig
 
 ## Additional contributors:  
 [hemisputnik](https://512b.dev/) (Uiua)  
