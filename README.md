@@ -119,6 +119,7 @@ SQLite (hardcoded)
 Svelte  
 Swift  
 TCL  
+Thue  
 Turing Machine But Way Worse  
 TypeScript  
 Uiua  
@@ -189,7 +190,6 @@ RPG
 [Sapphire](https://github.com/foxzyt/Sapphire)  
 Self  
 Standard ML  
-[Thue](https://esolangs.org/wiki/Thue)  
 TI-BASIC  
 Turing  
 Unlambda  
