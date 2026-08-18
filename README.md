@@ -198,3 +198,5 @@ Whitespace
 Xojo  
 [Z#](https://github.com/sam-astro/Z-Sharp)  
 https://github.com/leachim6/hello-world
+[Nix](https://nixos.org/)
+[Elm](https://elm-lang.org/)
