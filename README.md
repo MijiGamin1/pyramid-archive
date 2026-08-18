@@ -163,6 +163,7 @@ COW
 [Decibel](https://github.com/DaemonNillia/Decibel)  
 Discord bot  
 Eiffel  
+Elm  
 Emojicode  
 [Half-Broken Car in Heavy Traffic](https://tio.run/#hbcht)  
 Harbour  
@@ -177,6 +178,7 @@ LiveCode
 Minecraft Commands  
 Modula-2  
 NewtonScript  
+Nix  
 [NoodleScript](https://github.com/OfficialCodeNoodles/NoodleScript)  
 occam-pi  
 PL/I  
