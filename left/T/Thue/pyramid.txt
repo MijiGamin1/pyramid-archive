@@ -1,3 +1,8 @@
+#::= As olus2000 notes:
+#::= When testing in TIO.run remember:
+#::= 1. TIO Thue interpreter puts a newline after every output, so you should expect to see columns of *s delimited by empty lines instead of a pyramid
+#::= 2. TIO Thue expects a newline after code and after input
+
 #::=Read a single decimal digit
 I::=:::
 #::=Convert decimal to unary stream of >
