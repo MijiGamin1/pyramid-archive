@@ -135,7 +135,6 @@ Zig
 [hemisputnik](https://512b.dev/) (Uiua)  
 Kamila Szewczyk (Assembly, Malbolge Unshackled)  
 somebody1234 (Attache)  
-zipsegv (J, Zig)
 
 ## TODO:
 Act1  
