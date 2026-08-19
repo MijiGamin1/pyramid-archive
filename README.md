@@ -79,6 +79,7 @@ MoonScript
 MoreMathRPN  
 Mouse-2002  
 Nim  
+Nix  
 Objective-C  
 OCaml  
 Octave  
