@@ -15,4 +15,4 @@ pkgs.runCommand "print-pyramid" {} ''
 ''
 
 # Run
-# cat $(nix-build pyramid-build.nix --arg height {INSERT HEIGHT} --no-out-link)
+# cat $(nix-build pyramid.nix --arg height {INSERT HEIGHT} --no-out-link)
